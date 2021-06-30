@@ -8,7 +8,7 @@ Future Improvements:
 
 Create a fully functioning list with dates and time input.
 Customize the list based on color of choice. 
-A warning that alerts an approaching deadline. 
+A warning that alerts a deadline. 
 
 License:
 
